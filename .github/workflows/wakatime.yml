@@ -16,3 +16,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: main
           COMMIT_MESSAGE: update wakatime stats
+          IMAGES_FOLDER: images/wakatime
