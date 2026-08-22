@@ -1,5 +1,5 @@
 <details>
-  <summary><h2>Stats</h2></summary>
+  <summary><h3>Stats</h3></summary>
   
   ![TopLangs](./profile/top-langs.svg)
   
