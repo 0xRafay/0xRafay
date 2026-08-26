@@ -5,7 +5,4 @@
   
   <br>
   
-  ![WakaTime](./images/wakatime/wakatime_weekly_language_stats.svg)
-  <br>
-  
 </details>
