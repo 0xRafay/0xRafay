@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=6&card_width=580&exclude_repo=dotfiles&hide=lua&stats_format=bytes&theme=dark_github
+          options: username=${{ github.repository_owner }}&langs_count=6&card_width=580&exclude_repo=dotfiles&hide=lua,html,css,nix,sh&stats_format=bytes&theme=dark_github
           path: images/github-readme-stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
